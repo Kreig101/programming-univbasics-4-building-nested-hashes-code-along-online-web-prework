@@ -26,7 +26,8 @@ def first_challenge
       }
     ]
   },
-  :capulet => { :patriarch => {
+  :capulet => {
+    :patriarch => {
       :name => "Lord Capulet",
       :age => "50"
     },
@@ -51,6 +52,6 @@ def first_challenge
         :attitude => "worried"
       }
     ]
-  }}
+  }
 }
 end

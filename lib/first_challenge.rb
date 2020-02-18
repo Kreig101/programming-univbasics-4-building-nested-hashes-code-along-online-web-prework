@@ -9,5 +9,5 @@ def first_challenge
     :patriarch => {
       :name => "Lord Capulet",
       :age => "50"
-    }}
+    }
 end
